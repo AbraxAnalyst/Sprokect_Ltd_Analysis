@@ -1,5 +1,8 @@
 # ANALYSIS OF SPROCKET Central Pty Ltd. 
-![ ](herobg.jpg)
+<div id="header" align="center">
+  <img src="https://th.bing.com/th/id/R.f50a64b0a949cddfc72bdf4122474091?rik=rLnd%2bf7NQAdeLg&riu=http%3a%2f%2fwww.nexj.com%2fwp-content%2fuploads%2f2016%2f01%2fBetter-Understand-Your-Customers.jpg&ehk=Hs8blg%2f9I4%2bOZHZX8GJhKRZ2%2b7bkFmarANIHkQZpNW0%3d&risl=&pid=ImgRaw&r=0" />  
+</div>
+
 
 ---
 ## Project Overview 
